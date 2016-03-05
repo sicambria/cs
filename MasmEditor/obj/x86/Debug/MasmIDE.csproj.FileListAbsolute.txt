@@ -1,0 +1,17 @@
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\bin\Debug\MasmIDE.exe
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\bin\Debug\MasmIDE.pdb
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\obj\x86\Debug\MasmIDE.MainForm.resources
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\obj\x86\Debug\MasmIDE.csproj.GenerateResource.Cache
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\obj\x86\Debug\MasmIDE.exe
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmIDE\MasmIDE\obj\x86\Debug\MasmIDE.pdb
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\MasmIDE.MainForm.resources
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\MasmIDE.Resource1.resources
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\MasmIDE.csproj.GenerateResource.Cache
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\MasmIDE.exe
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\obj\x86\Debug\MasmIDE.pdb
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\bin\Debug\Text1.txt
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\bin\Debug\MasmIDE.exe
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\bin\Debug\MasmIDE.pdb
+C:\Users\Atlantisz\Documents\SharpDevelop Projects\MasmEditor\MasmIDE\bin\Debug\SyntaxHighlighter.dll
