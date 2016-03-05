@@ -1,0 +1,9 @@
+Broken UTF-8 converter
+build 20100821
+
+Licence:
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+E-mail: 
+sicambria -at- users -dot- sourceforge -dot- net
